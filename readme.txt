@@ -1,1 +1,2 @@
-parctice git
+hello git
+hello python
